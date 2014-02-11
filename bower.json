@@ -1,0 +1,9 @@
+{
+  "name": "ordr",
+  "dependencies": {
+    "jquery": "*",
+    "ember": "*",
+    "ember-data": "*",
+    "handlebars": "1.3.0"
+  }
+}
