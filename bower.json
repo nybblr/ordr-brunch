@@ -4,6 +4,17 @@
     "jquery": "*",
     "ember": "*",
     "ember-data": "*",
-    "handlebars": "1.3.0"
+    "handlebars": "1.3.0",
+    "foundation": "*"
+  },
+  "overrides": {
+    "modernizr": {
+      "main": "modernizr.js",
+      "dependencies": {}
+    },
+    "jquery-placeholder": {
+      "main": "jquery.placeholder.js",
+      "dependencies": {}
+    }
   }
 }

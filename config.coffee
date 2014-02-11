@@ -13,7 +13,9 @@ exports.config =
           "vendor/scripts/auto-reload.js"
         ]
     stylesheets:
-      joinTo: 'app.css'
+      joinTo:
+        'app.css': /^app/
+        'vendor.css': /^(?!app)/
     templates:
       joinTo: 'app.js'
   server:
