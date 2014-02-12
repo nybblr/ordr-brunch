@@ -21,7 +21,7 @@
     "coffee-script-brunch": "*",
     "auto-reload-brunch": "*",
     "appcache-brunch": "*",
-    "emblem-brunch": "git+https://github.com/mrinterweb/emblem-brunch.git#master"
+    "emblem-brunch": "git+https://github.com/nybblr/emblem-brunch.git#master"
   }
 }
 
