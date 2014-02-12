@@ -1,0 +1,7 @@
+ul#menu
+  each controller
+    li
+      a href="#" click="addFood this"
+        img src=imageUrl
+        br
+        = name

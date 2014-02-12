@@ -1,0 +1,5 @@
+.row
+  #tables.small-4.columns
+    = partial "tables/menu"
+  #order.small-8.columns
+    = outlet
